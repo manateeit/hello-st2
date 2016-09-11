@@ -1,0 +1,6 @@
+---
+name: get_droplets
+pack: hello-st2
+description: List all the droplets in my account
+enabled: true
+entry_point: get_droplets.py
